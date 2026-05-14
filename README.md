@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=Hi,%20I%27m%20Tsukinai%20%E2%98%86&fontSize=44&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AIDF%20%E2%80%A2%20Web3&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=Hi,%20I%27m%20Tsukinai%20%E2%98%86&fontSize=44&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AIDF%20%E2%80%A2%20Web3&descAlignY=58" alt="Profile header banner showing Tsukinai's name and role" />
 </p>
 
 <p align="center">
@@ -22,21 +22,21 @@
 
 ### 🧰 Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,js,ts,nodejs,python,react,git,docker&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,js,ts,nodejs,python,react,git,docker&perline=9" alt="Tech stack icons: Solidity, Ethereum, JavaScript, TypeScript, Node.js, Python, React, Git, Docker" />
 </p>
 
 ### 📊 GitHub highlights
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tsukinai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukinai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tsukinai&show_icons=true&theme=tokyonight&hide_border=true" alt="Tsukinai's GitHub statistics card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukinai&layout=compact&theme=tokyonight&hide_border=true" alt="Tsukinai's most used programming languages chart" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukinai&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukinai&theme=tokyonight&hide_border=true" alt="Tsukinai's GitHub contribution streak statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsukinai&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsukinai&theme=tokyo-night&hide_border=true" alt="Tsukinai's GitHub activity contribution graph" />
 </p>
 
 ### 🐍 Contribution snake
@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsukinai/Tsukinai/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsukinai/Tsukinai/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tsukinai/Tsukinai/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Tsukinai/Tsukinai/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
