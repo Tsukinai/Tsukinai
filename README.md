@@ -47,6 +47,9 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Tsukinai/Tsukinai/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<p align="center">
+  <em>Snake animation will appear after the workflow runs once and creates the output branch.</em>
+</p>
 
 ### 🤝 Let’s connect
 - LinkedIn: https://www.linkedin.com/in/tsukinai
