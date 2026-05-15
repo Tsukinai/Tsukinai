@@ -16,6 +16,7 @@ $ whoami
   ],
   "location": "Singapore",
   "focus":    [
+    "full-stack engineering",
     "LLM evaluation & RAG",
     "AI × finance",
     "smart contracts (EVM, Move)",
@@ -29,18 +30,18 @@ $ whoami
 languages = ["Java", "Python", "TypeScript", "JavaScript", "Solidity", "Move", "C#", "C++"]
 backend   = ["Spring Boot", "FastAPI", "Flask", "Node.js", ".NET 8", "Kafka", "RabbitMQ"]
 frontend  = ["React", "Next.js", "Vue", "Tailwind"]
-data      = ["MySQL", "Redis", "Milvus", "FAISS", "Elasticsearch", "MinIO"]
-ai        = ["RAG", "fine-tuning", "OpenAI", "text-embedding-3-small"]
+data      = ["MySQL", "MongoDB", "Redis", "Milvus", "FAISS", "Elasticsearch", "MinIO"]
+ai        = ["RAG", "fine-tuning", "harness engineering"]
 chain     = ["EVM / Solidity", "Aptos / Move", "Phala TEE (Rust)"]
 devops    = ["Docker", "AWS", "Vercel", "Nginx", "Git"]
 ```
 
 ```bash
 $ history | tail
-2025-09  joined  NUS AIDF       — Research Engineer · LLM eval, RAG, CFA pipeline
-2025-04  built   MartX (HK)     — RAG/Milvus · Aptos NFT · Phala TEE
+2025-09  joined  NUS AIDF       — Research Engineer · LLM eval, RAG, harness engineering
+2025-04  worked  MartX (HK)     — RAG/Milvus · Aptos NFT · Phala TEE
 2025-01  worked  MEXC (SG)      — Data Analyst · scrapers, ETL, Tableau
-2023-08  shipped CSSC (CN)      — Spring Boot · Vue · 200+ daily users
+2023-08  worked  CSSC (CN)      — Spring Boot · Vue · 200+ daily users
 ```
 
 ```bash
