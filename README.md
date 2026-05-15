@@ -46,6 +46,7 @@ $ history | tail
 
 ```bash
 $ ls -la pinned/
+drwxr-xr-x  editable-deck/       # Claude Code skill — browser-edit deck + PPTX
 drwxr-xr-x  Paymaster-Ledger/    # ERC-4337 paymaster ledger, Solidity
 drwxr-xr-x  NTU_SepoliaFaucet/   # Sepolia testnet faucet
 drwxr-xr-x  ZeFanCoin/           # ZFC dashboard
