@@ -9,17 +9,18 @@ $ whoami
 
 ```json
 {
-  "role":     "Research Engineer @ NUS Asian Institute of Digital Finance",
+  "role":     "AI Engineer @ MetaComp",
   "edu":      [
     "M.Sc. Blockchain — NTU, 2025",
     "B.Eng. Software Engineering — HIT, 2024"
   ],
   "location": "Singapore",
   "focus":    [
-    "full-stack engineering",
+    "AI agents (MCP, tool use, generative UI)",
     "LLM evaluation & RAG",
+    "full-stack engineering",
     "AI × finance",
-    "smart contracts (EVM, Move)",
+    "smart contracts (EVM)",
     "on-chain data"
   ]
 }
@@ -27,25 +28,27 @@ $ whoami
 
 ```toml
 # stack.toml
-languages = ["Java", "Python", "TypeScript", "JavaScript", "Solidity", "Move", "C#", "C++"]
+languages = ["Java", "Python", "TypeScript", "JavaScript", "Solidity", "C#", "C++"]
 backend   = ["Spring Boot", "FastAPI", "Flask", "Node.js", ".NET 8", "Kafka", "RabbitMQ"]
 frontend  = ["React", "Next.js", "Vue", "Tailwind"]
 data      = ["MySQL", "MongoDB", "Redis", "Milvus", "FAISS", "Elasticsearch", "MinIO"]
-ai        = ["RAG", "fine-tuning", "harness engineering"]
-chain     = ["EVM / Solidity", "Aptos / Move", "Phala TEE (Rust)"]
+ai        = ["agents", "MCP", "RAG", "LLM evals", "fine-tuning", "harness engineering"]
+chain     = ["EVM / Solidity"]
 devops    = ["Docker", "AWS", "Vercel", "Nginx", "Git"]
 ```
 
 ```bash
 $ history | tail
-2025-09  joined  NUS AIDF       — Research Engineer · LLM eval, RAG, harness engineering
-2025-04  worked  MartX (HK)     — RAG/Milvus · Aptos NFT · Phala TEE
+2026-09  joined  MetaComp (SG)  — AI Engineer · AgentX: MCP tools, UI cards, text-to-SQL
+2025-10  worked  Bybit (SG)     — SDE intern · LangGraph AI copilot for engineers
+2025-09  worked  NUS AIDF (SG)  — Software Development Engineer · RAG AI tutor, LLM eval
 2025-01  worked  MEXC (SG)      — Data Analyst · scrapers, ETL, Tableau
 2023-08  worked  CSSC (CN)      — Spring Boot · Vue · 200+ daily users
 ```
 
 ```bash
 $ ls -la pinned/
+drwxr-xr-x  paybeat/             # macOS menu-bar salary ticker, Swift
 drwxr-xr-x  editable-deck/       # Claude Code skill — browser-edit deck + PPTX
 drwxr-xr-x  Paymaster-Ledger/    # ERC-4337 paymaster ledger, Solidity
 drwxr-xr-x  NTU_SepoliaFaucet/   # Sepolia testnet faucet
